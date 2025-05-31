@@ -1,1 +1,2 @@
-# Pet_Retreat-Website
+# Pet_Retreat
+Pet Retreat is an integrated pet care service provider aimed at addressing the fragmented nature of pet care services in India. Our facility offers a one-stop solution for pet owners, eliminating the need to engage multiple service providers for different aspects of pet care. With a robust market opportunity, a strong competitive edge, and an experienced founding team, Pet Retreat is positioned to revolutionize the pet care industry in India.
